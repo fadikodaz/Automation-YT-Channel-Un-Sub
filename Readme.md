@@ -29,7 +29,7 @@ This script automates the process of unsubscribing from YouTube channels using P
 
     ```javascript
     const chromePath = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe';
-    const chromeProfilePath = 'C:\\Users\\Boss\\AppData\\Local\\Google\\Chrome\\User Data\\Default';
+    const chromeProfilePath = 'C:\\Users\\Your User Name\\AppData\\Local\\Google\\Chrome\\User Data\\Default';
     ```
 
 ## Usage

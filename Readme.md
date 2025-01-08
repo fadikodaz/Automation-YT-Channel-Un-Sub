@@ -58,11 +58,3 @@ This script automates the process of unsubscribing from YouTube channels using P
 
 - **Elements not found:**
     - YouTube's UI may change over time, causing selectors to break. Update the selectors in the script if necessary.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you have suggestions for improvements or find any bugs.
-
-## License
-
-This project is licensed under the MIT License.
